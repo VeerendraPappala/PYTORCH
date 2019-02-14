@@ -28,6 +28,12 @@ The general approach to solving computer vision problems that i heard is fast.ai
 The test set has 12630 labeled images. 
 You can download the dataset from the [official website](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
+## Credits and Recommended Articles:
+  1. [Resnet for German traffic signs Classification using Pytorch](https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3)
+  2. [Pytorch Introduction](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/)
+  3. [Official PyTorch Guide](https://pytorch.org/tutorials/)
+  4. [Deep Learning with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 
 
     
